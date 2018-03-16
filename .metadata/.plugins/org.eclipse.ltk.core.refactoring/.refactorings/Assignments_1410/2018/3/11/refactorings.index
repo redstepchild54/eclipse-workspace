@@ -1,0 +1,15 @@
+1520753449237	Extract method 'createPane'
+1520753844617	Delete element
+1520753894288	Extract method 'createLayeredPane'
+1520753957350	Extract method 'createCatLabel'
+1520753979077	Extract method 'createEyesLabel'
+1520753997110	Extract method 'createNoseLabel'
+1520754014960	Extract method 'createMouthLabel'
+1520754153484	Extract method 'createPanel'
+1520754177382	Extract method 'createChooseLabel'
+1520754209600	Extract method 'createEyesCheckbox'
+1520754225911	Extract method 'createNoseCheckbox'
+1520754288032	Extract method 'createMouthCheckbox'
+1520754332135	Extract method 'createUpdateButton'
+1520984801691	Delete element
+1521180500332	Move packages

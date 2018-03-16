@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 4 elements from project &apos;1410&apos;&#x0D;&#x0A;- Original project: &apos;1410&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Gps.java&#x0D;&#x0A;     GpsPosition.java&#x0D;&#x0A;     GpsPositionTest.java&#x0D;&#x0A;     GpsTest.java" description="Delete elements" element1="GpsPositionTest.java" element2="Gps.java" element3="GpsTest.java" element4="GpsPosition.java" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="4" stamp="1521180686026" subPackages="false" version="1.0"/>
+</session>
